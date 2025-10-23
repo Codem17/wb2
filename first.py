@@ -7,8 +7,8 @@ import streamlit as st
 
 API_TOKEN = "68fa2f405fccb1.86547776d0fd5ab136d4a7ab48903d2c9c8558ef"  # hardcoded as requested
 
-st.set_page_config(page_title="отчет по категории", layout="wide")
-st.title("отчет по категории")
+st.set_page_config(page_title="Отчёт по категории", layout="wide")
+st.title("Отчёт по категории")
 
 # --- Inputs ---
 col1, col2, col3 = st.columns([1,1,2])
