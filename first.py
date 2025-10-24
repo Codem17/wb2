@@ -5,7 +5,7 @@ import requests
 import pandas as pd
 import streamlit as st
 
-API_TOKEN = "68fa2f405fccb1.86547776d0fd5ab136d4a7ab48903d2c9c8558ef"  # hardcoded as requested
+API_TOKEN = "68fb69af709f71.133793832773ec8aef617c6202a697cdf9306085"  # hardcoded as requested
 
 st.set_page_config(page_title="Отчёт по категории", layout="wide")
 st.title("Отчёт по категории")
